@@ -1,0 +1,10 @@
+google-generativeai
+pypdf
+unstructured
+python-dotenv
+pymongo
+langchain
+langchain_google_genai
+streamlit
+langchain-mongodb
+langchain_community
