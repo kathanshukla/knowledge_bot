@@ -1,7 +1,5 @@
 # knowledge_bot
 
-# Knowledge Bot Project
-
 ## Objective
 The objective of this project is to create a Knowledge Bot using the Google PaLM (Pathways Language Model) API and MongoDB for efficient and intelligent question-answering. The bot is designed to assist users by answering queries related to various policies from LIC (Life Insurance Corporation of India) and SBI (State Bank of India). This is achieved through integrating advanced natural language processing capabilities with a robust backend for data storage and retrieval.
 
